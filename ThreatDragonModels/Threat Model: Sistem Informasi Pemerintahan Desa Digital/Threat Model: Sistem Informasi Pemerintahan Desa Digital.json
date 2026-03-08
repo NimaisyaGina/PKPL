@@ -1,0 +1,26 @@
+{
+  "version": "2.6.0",
+  "summary": {
+    "title": "Threat Model: Sistem Informasi Pemerintahan Desa Digital",
+    "owner": "Bismillah A",
+    "description": "Sistem berbasis web yang bertujuan untuk mendigitalisasi administrasi desa, mencakup pengelolaan data NIK warga, pengajuan surat keterangan online, dan transparansi penyaluran bantuan sosial (bansos), fokus utama keamanan adalah perlindungan data privasi warga dan integritas data keuangan desa.",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "New STRIDE diagram",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.6.0",
+        "cells": []
+      }
+    ],
+    "diagramTop": 2,
+    "reviewer": "PKPL",
+    "threatTop": 0
+  }
+}
